@@ -16,7 +16,9 @@ namespace СarShop.DataLayer
         {
 
         }
-
+        /// <summary>
+        /// for migrations
+        /// </summary>
         public class EFDBContextFactory : IDesignTimeDbContextFactory<EFDBContext>
         {
             public EFDBContext CreateDbContext(string[] args)
