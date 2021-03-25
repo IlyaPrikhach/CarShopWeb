@@ -1,5 +1,4 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace СarShop.DataLayer.Migrations
 {
@@ -16,7 +15,7 @@ namespace СarShop.DataLayer.Migrations
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: true),
                     IsBought = table.Column<bool>(type: "bit", nullable: false),
-                    ManufactureDate = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ManufactureYear = table.Column<int>(type: "int", nullable: false),
                     Price = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>

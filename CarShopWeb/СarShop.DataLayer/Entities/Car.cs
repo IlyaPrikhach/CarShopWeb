@@ -9,8 +9,8 @@ namespace СarShop.DataLayer.Entities
     {
         public string Name { get; set; }
         public string Description { get; set; }
-        public bool IsBought { get; set; }
-        public DateTime ManufactureDate { get; set; }
+        public bool IsBought { get; set; } = false;
+        public int ManufactureYear { get; set; }
         public int Price { get; set; }
         public int Id { get; set; }
     }
