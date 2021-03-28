@@ -10,6 +10,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarShopWeb", "CarShopWeb\Ca
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "СarShop.DataLayer", "СarShop.DataLayer\СarShop.DataLayer.csproj", "{22FB48C8-A784-4F2A-AD76-8DF47DE5A838}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.BL", "CarShop.BL\CarShop.BL.csproj", "{D20EDBB2-CC47-4B23-B636-0C29182725DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarShop.PresentationLayer", "CarShop.PresentationLayer\CarShop.PresentationLayer.csproj", "{8CCFBF18-6675-4993-AA7D-331B9582716F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,14 @@ Global
 		{22FB48C8-A784-4F2A-AD76-8DF47DE5A838}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22FB48C8-A784-4F2A-AD76-8DF47DE5A838}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22FB48C8-A784-4F2A-AD76-8DF47DE5A838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D20EDBB2-CC47-4B23-B636-0C29182725DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D20EDBB2-CC47-4B23-B636-0C29182725DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D20EDBB2-CC47-4B23-B636-0C29182725DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D20EDBB2-CC47-4B23-B636-0C29182725DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CCFBF18-6675-4993-AA7D-331B9582716F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CCFBF18-6675-4993-AA7D-331B9582716F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CCFBF18-6675-4993-AA7D-331B9582716F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CCFBF18-6675-4993-AA7D-331B9582716F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

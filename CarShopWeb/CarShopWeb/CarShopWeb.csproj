@@ -24,6 +24,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CarShop.BL\CarShop.BL.csproj" />
+    <ProjectReference Include="..\CarShop.PresentationLayer\CarShop.PresentationLayer.csproj" />
     <ProjectReference Include="..\СarShop.DataLayer\СarShop.DataLayer.csproj" />
   </ItemGroup>
 

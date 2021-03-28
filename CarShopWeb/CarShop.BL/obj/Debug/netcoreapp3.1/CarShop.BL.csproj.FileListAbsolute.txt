@@ -1,0 +1,12 @@
+D:\CarShopWeb\CarShopWeb\CarShop.BL\bin\Debug\netcoreapp3.1\CarShop.BL.deps.json
+D:\CarShopWeb\CarShopWeb\CarShop.BL\bin\Debug\netcoreapp3.1\CarShop.BL.dll
+D:\CarShopWeb\CarShopWeb\CarShop.BL\bin\Debug\netcoreapp3.1\CarShop.BL.pdb
+D:\CarShopWeb\CarShopWeb\CarShop.BL\bin\Debug\netcoreapp3.1\СarShop.DataLayer.dll
+D:\CarShopWeb\CarShopWeb\CarShop.BL\bin\Debug\netcoreapp3.1\СarShop.DataLayer.pdb
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.csprojAssemblyReference.cache
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.AssemblyInfoInputs.cache
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.AssemblyInfo.cs
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.csproj.CoreCompileInputs.cache
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.csproj.CopyComplete
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.dll
+D:\CarShopWeb\CarShopWeb\CarShop.BL\obj\Debug\netcoreapp3.1\CarShop.BL.pdb

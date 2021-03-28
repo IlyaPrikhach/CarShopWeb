@@ -1,0 +1,13 @@
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.deps.json
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.runtimeconfig.json
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.runtimeconfig.dev.json
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.dll
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.pdb
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.csprojAssemblyReference.cache
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.AssemblyInfoInputs.cache
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.AssemblyInfo.cs
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.csproj.CoreCompileInputs.cache
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.dll
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.pdb
+D:\CarShopWeb\CarShopWeb\СarShop.DataLayer\obj\Debug\netcoreapp3.1\СarShop.DataLayer.genruntimeconfig.cache

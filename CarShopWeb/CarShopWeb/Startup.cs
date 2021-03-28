@@ -1,3 +1,5 @@
+using CarShop.BL.Implementations;
+using CarShop.BL.Interfaces;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +30,7 @@ namespace CarShopWeb
             services.AddControllersWithViews();
             var connection = Configuration.GetConnectionString("DefaultConnection");
 
+            services.AddTransient<ICarRepository, CarRepository>();
             services.AddDbContext<EFDBContext>(options => options.UseSqlServer(connection, b => b.MigrationsAssembly("CarShop.DataLayer")));
         }
 
