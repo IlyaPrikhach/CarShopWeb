@@ -8,30 +8,30 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using СarShop.DataLayer.Entities;
+using CarShop.PresentationLayer;
+using CarShop.PresentationLayer.Servicies;
 
 namespace CarShopWeb.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private ICarRepository _carRepository;
-        public HomeController(ILogger<HomeController> logger, ICarRepository carRepository)
+        private readonly ICarService _service;
+
+        public HomeController(ILogger<HomeController> logger, ICarService service)
         {
-            _carRepository = carRepository;
+            _service = service;
             _logger = logger;
         }
 
         [HttpGet]
         public IActionResult Index()
         {
-            List<Car> cars = _carRepository.GetAllCars().ToList();
-            cars.Count();
-            return View();
-        }
+            AllCarsModel AllCars = new AllCarsModel();
 
-        public IActionResult Privacy()
-        {
-            return View();
+            AllCars.cars = _service.GetCarsList();
+
+            return View("HomePage", AllCars);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

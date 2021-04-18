@@ -16,13 +16,13 @@ namespace CarShop.BL.Implementations
         {
             this.context = context;
         }
-        public void AddCarInShop(Car car)
+        public void AddCarInDB(Car car)
         {
             context.Cars.Add(car);
             context.SaveChanges();
         }
 
-        public void DeleteCarFromShop(Car car)
+        public void DeleteCarFromDB(Car car)
         {
             context.Cars.Remove(car);
             context.SaveChanges();

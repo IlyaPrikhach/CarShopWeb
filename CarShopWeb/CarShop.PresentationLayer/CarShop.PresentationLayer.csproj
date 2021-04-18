@@ -6,11 +6,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CarShop.BL\CarShop.BL.csproj" />
-    <ProjectReference Include="..\СarShop.DataLayer\СarShop.DataLayer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Servicies\" />
   </ItemGroup>
 
 </Project>

@@ -9,8 +9,8 @@ namespace CarShop.BL.Interfaces
     {
         IEnumerable<Car> GetAllCars();
         Car GetCarById(int Id);
-        void AddCarInShop(Car car);
-        void DeleteCarFromShop(Car car);
+        void AddCarInDB(Car car);
+        void DeleteCarFromDB(Car car);
 
     }
 }

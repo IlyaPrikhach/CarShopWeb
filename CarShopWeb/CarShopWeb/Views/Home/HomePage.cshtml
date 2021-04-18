@@ -1,0 +1,74 @@
+﻿@model CarShopWeb.Models.AllCarsModel
+@using System.Linq;
+@{
+    var cars = Model.cars.ToList();
+}
+
+<style>
+    footer {
+        background-color: crimson;
+        height: 70px;
+        margin-top: 30px;
+        text-align: right;
+        font-size: 20px;
+        padding-right: 20px;
+        color: darkblue;
+    }
+
+    header {
+        background: url(HeaderBackground.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 150px;
+        margin-bottom: 30px;
+        font-size: 20px;
+        padding-top: 20px;
+        color: paleturquoise;
+        border: 6px solid darkslategrey;
+    }
+
+    body {
+        background: url(BodyBackground.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .home {
+        float: left;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+
+    .HeaderText {
+        float: right;
+        padding-right: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+</style>
+
+<body onload="addFromBd()">
+    <header>
+        <div class="home"><img src="~/HomeIcon.png" height="40" width="70" /></div>
+        <div class="HeaderText"><h2>Лучшие авто - только тут</h2></div>
+    </header>
+    
+    <footer >
+        <div>Creating By Prykhach Ilya</div>
+    </footer>
+</body>
+
+<script>
+
+    function addFromBd() {
+
+        var model = @Json.Serialize(cars);
+        for (let i = 0; i < model.length; i++) {
+        //alert(model[i].value);
+        }
+    }
+
+</script>
+
+

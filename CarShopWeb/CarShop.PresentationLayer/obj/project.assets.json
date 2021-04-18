@@ -5735,8 +5735,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CarShop.BL >= 1.0.0",
-      "СarShop.DataLayer >= 1.0.0"
+      "CarShop.BL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5768,9 +5767,6 @@
           "projectReferences": {
             "D:\\CarShopWeb\\CarShopWeb\\CarShop.BL\\CarShop.BL.csproj": {
               "projectPath": "D:\\CarShopWeb\\CarShopWeb\\CarShop.BL\\CarShop.BL.csproj"
-            },
-            "D:\\CarShopWeb\\CarShopWeb\\СarShop.DataLayer\\СarShop.DataLayer.csproj": {
-              "projectPath": "D:\\CarShopWeb\\CarShopWeb\\СarShop.DataLayer\\СarShop.DataLayer.csproj"
             }
           }
         }
@@ -5799,7 +5795,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

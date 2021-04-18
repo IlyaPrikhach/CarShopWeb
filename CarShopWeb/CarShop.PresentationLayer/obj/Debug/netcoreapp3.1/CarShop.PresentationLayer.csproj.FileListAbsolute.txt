@@ -1,0 +1,14 @@
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\CarShop.PresentationLayer.deps.json
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\CarShop.PresentationLayer.dll
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\CarShop.PresentationLayer.pdb
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\CarShop.BL.dll
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.dll
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\CarShop.BL.pdb
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\bin\Debug\netcoreapp3.1\СarShop.DataLayer.pdb
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.csprojAssemblyReference.cache
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.AssemblyInfoInputs.cache
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.AssemblyInfo.cs
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.csproj.CoreCompileInputs.cache
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.csproj.CopyComplete
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.dll
+D:\CarShopWeb\CarShopWeb\CarShop.PresentationLayer\obj\Debug\netcoreapp3.1\CarShop.PresentationLayer.pdb
